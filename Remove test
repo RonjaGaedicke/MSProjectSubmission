@@ -1,0 +1,2 @@
+git rm Deasy_Regression.Rmd
+git commit -m "Deasy_Regression.Rmd"
